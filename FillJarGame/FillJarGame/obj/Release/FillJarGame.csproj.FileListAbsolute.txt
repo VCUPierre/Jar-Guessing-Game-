@@ -1,0 +1,7 @@
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\bin\Release\FillJarGame.exe.config
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\bin\Release\FillJarGame.exe
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\bin\Release\FillJarGame.pdb
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\obj\Release\FillJarGame.csprojResolveAssemblyReference.cache
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\obj\Release\FillJarGame.csproj.CoreCompileInputs.cache
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\obj\Release\FillJarGame.exe
+C:\Users\bsx54366\Desktop\Lynda Trainings\C# Trainings\FillJarGame\FillJarGame\obj\Release\FillJarGame.pdb
